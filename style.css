@@ -1,0 +1,74 @@
+/* ==========================================================================
+   Project 03: Final Project -A Full Project Proposal
+   CMPA 3301 - Fundamentals of Computing Applications
+   ========================================================================== */
+
+/* 1. Body background and default typography */
+body {
+    background-color: #b2d8d8
+    ; /* Soft, light neutral background */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8f7e99; /* Muted gray for text */
+
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px; /* Breathing room around the edges of the viewport */
+}
+
+/* 2. Main heading styling */
+h1 {
+    font-family: 'Georgia', serif;
+    color: #004c4c; /* TTU Navy / Professional Accent */
+    margin-bottom: 10px;
+}
+
+/* 3. Subheading styling */
+h2 {
+    font-family: 'Georgia', serif;
+    color: #008080; /* TTU Teal Accent */
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+/* 4. Paragraph styling */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8f7e99; /* TTU Teal Accent */
+    font-size: 1rem;
+    margin-bottom: 16px;
+    max-width: 750px; /* Improves readability across wide monitors */
+}
+
+/* 5. List and link styling */
+ul {
+    margin-bottom: 20px;
+    padding-left: 24px;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+a {
+    color: #004c4c; /* TTU Scarlet Accent */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div {
+    width: 250px;                   /* Content width */
+    height: 120px;                  /* Content height */
+    background-color: #ece9e1;       /* Soft gold/yellow fill */
+    border: 3px solid #d63031;       /* Noticeable solid border */
+    padding: 20px;                  /* Internal space between text and border */
+    margin: 30px auto;              /* External space; 'auto' centers the box horizontally */
+    
+    /* Optional enhancements for polish */
+    font-weight: bold;
+    color: #2d3436;
+    text-align: center;
+}
