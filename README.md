@@ -1,9 +1,9 @@
-# Project-03-Final-Project A Full Project Proposal
-## Website Purpose
-The purpose of the actual website itself # Project 02: My Professional Project Repository
+# Project 03-Final Project: A Full Project Proposal
+## Project Purpose
+The purpose of this project is to showcase and merge the readings from the CMPA 3301 class with newly learned technical skills.
 
 ## Website Purpose
-The purpose of the actual website itself showcases some of the exercises and assignments we have done in this class so far. For example, using markdown as a language, linking websites or repositories, and embedding the "style" of the website. Additionally, the content highlights who I am. It also discusses how the skills I will learn from my selected major should apply in my current career. I have listed a specific example of how I hope to use these skills towards a project I am working on.
+As part of the overall project proposal, the purpose of the website is to highlight the "project". In this case, the project is to paint a mural for a high school band hall. The website will higlight some items listed within the scope.
 
 ## Link to GitHub Profile
   * GitHub profile [Brenda on Git](https://github.com/Brexad26)
